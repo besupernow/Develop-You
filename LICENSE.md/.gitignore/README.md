@@ -5,7 +5,6 @@
 - [ ] Finish Welcome Page
 More to come
  
-***
 >"Made by you"
 
 ***
