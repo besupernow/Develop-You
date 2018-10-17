@@ -10,6 +10,4 @@
 ***
 <p>Under Development</p>
 
-[Contribution guidelines for this project](https://github.com/besupernow/Develop-You/blob/master/moreinfo.md)
-
-../moreinfo.md
+More info on looks and design can be found here [Click Here](https://github.com/besupernow/Develop-You/blob/master/moreinfo.md)
