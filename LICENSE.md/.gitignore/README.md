@@ -1,7 +1,7 @@
 # Develop-You
 
 - [X] Make Project
-- [ ] Finish Welcome Page
+- [X] Finish Welcome Page
 
 
 ***
