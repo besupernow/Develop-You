@@ -3,10 +3,11 @@
 
 - [X] Make Project
 - [ ] Finish Welcome Page
-More to come
+
  
 >"Made by you"
 
 ***
 <p>Under Development</p>
 
+[Contribution guidelines for this project](docs/moreinfo.md)
